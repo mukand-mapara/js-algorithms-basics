@@ -6,7 +6,6 @@ let str = "hello";
 //     return str.split("").reverse().join("");
 // }
 
-
 function reverse(str){
 
     let rev = "";
